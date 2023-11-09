@@ -9,3 +9,13 @@ Below an example. In this case the graticule on the lower subplot kind of messes
 ![example plot](output_comparison.jpg)
 
 *Crameri, F., Shephard, G.E. & Heron, P.J. The misuse of colour in science communication. Nat Commun 11, 5444 (2020). https://doi.org/10.1038/s41467-020-19160-7
+
+---
+
+In steps:
+
+![plot 1](plots/01.png)
+![plot 2](plots/02.png)
+![plot 3](plots/03.png)
+![plot 4](plots/04.png)
+![plot 5](plots/05.png)
